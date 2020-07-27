@@ -8,5 +8,6 @@
   <br>
   <br>
   <img src="https://github.com/kiwiflydream/kiwiflydream/blob/master/coder.jpg" width="350" />
-  [![Kiwi's github stats](https://github-readme-stats.vercel.app/api?username=kiwiflydream)](https://github.com/kiwiflydream/github-readme-stats)
+  
+  [![Kiwi's github stats](https://github-readme-stats.vercel.app/api?username=kiwiflydream&theme=dark)](https://github.com/kiwiflydream/github-readme-stats)
 </p>
