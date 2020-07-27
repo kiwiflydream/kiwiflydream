@@ -7,7 +7,7 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/kiwiflydream/kiwiflydream/blob/master/coder.jpg" width="350" />
+  <img src="https://github.com/kiwiflydream/kiwiflydream/blob/master/coder.jpg" width="350" /> <br/>
   
-  [![Kiwi's github stats](https://github-readme-stats.vercel.app/api?username=kiwiflydream&theme=dark)](https://github.com/kiwiflydream/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=kiwiflydream&theme=dark"/>
 </p>
